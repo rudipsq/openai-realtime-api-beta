@@ -21,6 +21,7 @@
     "websocket": "^1.0.35"
   },
   "dependencies": {
+    "@openai/realtime-api-beta": "file:",
     "ws": "^8.18.0"
   }
 }
